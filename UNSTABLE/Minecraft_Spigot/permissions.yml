@@ -3,9 +3,13 @@ groups:
     default: true
 
     permissions:
-    -modifyworld.*
+    -  modifyworld.*
+    -  lwc.protect
   root:
     default: false
 
+    option:
+      prefix: '&0(&root&0)&7 '
+
     permissions:
-    -*
+    -  permissions.*
