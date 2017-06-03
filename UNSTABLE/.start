@@ -1,0 +1,38 @@
+#!/bin/bash
+STARTCMD="java -server -Xmx1024M -Xms512M -XX:MaxPermSize=256m -Dfile.encoding=UTF8 -jar spigot-server.jar nogui  "
+cd ~/Minecraft_Spigot
+rm -rf ~/.konsole.log 2>/dev/null
+rm -rf ~/screenlog.0 2>/dev/null
+touch ~/.konsole.log
+unset http_proxy https_proxy
+sed -i 's/^server-ip=.*/server-ip= 37.157.251.156/g' /home/s1231997/Minecraft_Spigot/server.properties
+
+sed -i 's/^server-port=.*/server-port= 25565/g' /home/s1231997/Minecraft_Spigot/server.properties
+
+sed -i 's/enable-query=.*/enable-query=true/' /home/s1231997/Minecraft_Spigot/server.properties
+
+sed -i 's/max-players=.*/max-players=10/' /home/s1231997/Minecraft_Spigot/server.properties
+
+
+
+echo "17 * * * * screen -S $USER -p 0 -X eval 'stuff save-all\015'" >/home/$USER/crontab
+
+crontab /home/$USER/crontab  
+
+rm /home/$USER/crontab
+
+rm  -f /home/s1231997/Minecraft_Spigot/server.log 
+
+
+
+username=s1231997
+
+startmap="spigot-server.jar"
+
+
+
+source /etc/profile.d/gamed_java8.sh
+
+export PATH=$JAVA8_PATH:$PATH
+
+$STARTCMD | tee -a ~/.konsole.log

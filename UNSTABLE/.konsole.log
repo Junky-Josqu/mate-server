@@ -1,0 +1,135 @@
+Loading libraries, please wait...
+[20:19:11 INFO]: Starting minecraft server version 1.11.2
+[20:19:11 INFO]: Loading properties
+[20:19:11 INFO]: Default game type: SURVIVAL
+[20:19:12 INFO]: This server is running CraftBukkit version git-Spigot-7d78b81-70bc70b (MC: 1.11.2) (Implementing API version 1.11.2-R0.1-SNAPSHOT)
+[20:19:12 INFO]: Unable to find file banned-players.json, creating it.
+[20:19:12 INFO]: Unable to find file banned-ips.json, creating it.
+[20:19:12 INFO]: Unable to find file ops.json, creating it.
+[20:19:12 INFO]: Unable to find file whitelist.json, creating it.
+[20:19:12 INFO]: Server Ping Player Sample Count: 12
+[20:19:12 INFO]: Using 4 threads for Netty based IO
+[20:19:12 INFO]: Debug logging is disabled
+[20:19:12 INFO]: Generating keypair
+[20:19:12 INFO]: Starting Minecraft server on 37.157.251.156:25565
+[20:19:12 INFO]: Using epoll channel type
+[20:19:12 INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[20:19:12 INFO]: Preparing level "world"
+[20:19:12 INFO]: -------- World Settings For [world] --------
+[20:19:12 INFO]: Mob Spawn Range: 4
+[20:19:12 INFO]: Cactus Growth Modifier: 100%
+[20:19:12 INFO]: Cane Growth Modifier: 100%
+[20:19:12 INFO]: Melon Growth Modifier: 100%
+[20:19:12 INFO]: Mushroom Growth Modifier: 100%
+[20:19:12 INFO]: Pumpkin Growth Modifier: 100%
+[20:19:12 INFO]: Sapling Growth Modifier: 100%
+[20:19:12 INFO]: Wheat Growth Modifier: 100%
+[20:19:12 INFO]: NetherWart Growth Modifier: 100%
+[20:19:12 INFO]: Vine Growth Modifier: 100%
+[20:19:12 INFO]: Cocoa Growth Modifier: 100%
+[20:19:12 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[20:19:12 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:19:12 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[20:19:12 INFO]: Random Lighting Updates: false
+[20:19:12 INFO]: Structure Info Saving: true
+[20:19:12 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[20:19:12 INFO]: Max TNT Explosions: 100
+[20:19:12 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:19:12 INFO]: Item Despawn Rate: 6000
+[20:19:12 INFO]: Item Merge Radius: 2.5
+[20:19:12 INFO]: Arrow Despawn Rate: 1200
+[20:19:12 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:19:12 INFO]: View Distance: 10
+[20:19:12 INFO]: Experience Merge Radius: 3.0
+[20:19:12 INFO]: Zombie Aggressive Towards Villager: true
+[20:19:12 INFO]: Nerfing mobs spawned from spawners: false
+[20:19:13 INFO]: -------- World Settings For [world_nether] --------
+[20:19:13 INFO]: Mob Spawn Range: 4
+[20:19:13 INFO]: Cactus Growth Modifier: 100%
+[20:19:13 INFO]: Cane Growth Modifier: 100%
+[20:19:13 INFO]: Melon Growth Modifier: 100%
+[20:19:13 INFO]: Mushroom Growth Modifier: 100%
+[20:19:13 INFO]: Pumpkin Growth Modifier: 100%
+[20:19:13 INFO]: Sapling Growth Modifier: 100%
+[20:19:13 INFO]: Wheat Growth Modifier: 100%
+[20:19:13 INFO]: NetherWart Growth Modifier: 100%
+[20:19:13 INFO]: Vine Growth Modifier: 100%
+[20:19:13 INFO]: Cocoa Growth Modifier: 100%
+[20:19:13 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[20:19:13 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:19:13 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[20:19:13 INFO]: Random Lighting Updates: false
+[20:19:13 INFO]: Structure Info Saving: true
+[20:19:13 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[20:19:13 INFO]: Max TNT Explosions: 100
+[20:19:13 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:19:13 INFO]: Item Despawn Rate: 6000
+[20:19:13 INFO]: Item Merge Radius: 2.5
+[20:19:13 INFO]: Arrow Despawn Rate: 1200
+[20:19:13 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:19:13 INFO]: View Distance: 10
+[20:19:13 INFO]: Experience Merge Radius: 3.0
+[20:19:13 INFO]: Zombie Aggressive Towards Villager: true
+[20:19:13 INFO]: Nerfing mobs spawned from spawners: false
+[20:19:13 INFO]: -------- World Settings For [world_the_end] --------
+[20:19:13 INFO]: Mob Spawn Range: 4
+[20:19:13 INFO]: Cactus Growth Modifier: 100%
+[20:19:13 INFO]: Cane Growth Modifier: 100%
+[20:19:13 INFO]: Melon Growth Modifier: 100%
+[20:19:13 INFO]: Mushroom Growth Modifier: 100%
+[20:19:13 INFO]: Pumpkin Growth Modifier: 100%
+[20:19:13 INFO]: Sapling Growth Modifier: 100%
+[20:19:13 INFO]: Wheat Growth Modifier: 100%
+[20:19:13 INFO]: NetherWart Growth Modifier: 100%
+[20:19:13 INFO]: Vine Growth Modifier: 100%
+[20:19:13 INFO]: Cocoa Growth Modifier: 100%
+[20:19:13 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[20:19:13 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:19:13 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[20:19:13 INFO]: Random Lighting Updates: false
+[20:19:13 INFO]: Structure Info Saving: true
+[20:19:13 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[20:19:13 INFO]: Max TNT Explosions: 100
+[20:19:13 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:19:13 INFO]: Item Despawn Rate: 6000
+[20:19:13 INFO]: Item Merge Radius: 2.5
+[20:19:13 INFO]: Arrow Despawn Rate: 1200
+[20:19:13 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:19:13 INFO]: View Distance: 10
+[20:19:13 INFO]: Experience Merge Radius: 3.0
+[20:19:13 INFO]: Zombie Aggressive Towards Villager: true
+[20:19:13 INFO]: Nerfing mobs spawned from spawners: false
+[20:19:13 INFO]: Preparing start region for level 0 (Seed: 5083485963281501446)
+[20:19:14 INFO]: Preparing spawn area: 5%
+[20:19:15 INFO]: Preparing spawn area: 9%
+[20:19:16 INFO]: Preparing spawn area: 15%
+[20:19:17 INFO]: Preparing spawn area: 23%
+[20:19:18 INFO]: Preparing spawn area: 29%
+[20:19:19 INFO]: Preparing spawn area: 37%
+[20:19:20 INFO]: Preparing spawn area: 44%
+[20:19:21 INFO]: Preparing spawn area: 52%
+[20:19:22 INFO]: Preparing spawn area: 59%
+[20:19:23 INFO]: Preparing spawn area: 68%
+[20:19:24 INFO]: Preparing spawn area: 76%
+[20:19:25 INFO]: Preparing spawn area: 84%
+[20:19:26 INFO]: Preparing spawn area: 93%
+[20:19:27 INFO]: Preparing start region for level 1 (Seed: 5083485963281501446)
+[20:19:28 INFO]: Preparing spawn area: 10%
+[20:19:29 INFO]: Preparing spawn area: 22%
+[20:19:30 INFO]: Preparing spawn area: 31%
+[20:19:31 INFO]: Preparing spawn area: 43%
+[20:19:32 INFO]: Preparing spawn area: 57%
+[20:19:33 INFO]: Preparing spawn area: 73%
+[20:19:34 INFO]: Preparing spawn area: 87%
+[20:19:35 INFO]: Preparing start region for level 2 (Seed: 5083485963281501446)
+[20:19:36 INFO]: Preparing spawn area: 40%
+[20:19:37 INFO]: Preparing spawn area: 74%
+[20:19:37 INFO]: Done (25.434s)! For help, type "help" or "?"
+[20:19:37 INFO]: Starting GS4 status listener
+[20:19:37 INFO]: Starting remote control listener
+[20:19:37 INFO]: Query running on 37.157.251.156:25565
+[20:19:37 INFO]: RCON running on 37.157.251.156:25575
+[20:21:16 INFO]: UUID of player Floy_Tv is e9f28263-68b5-40f8-9ace-e2330ede5566
+[20:21:16 INFO]: Floy_Tv[/93.232.239.246:64933] logged in with entity id 2237 at ([world]-34.5, 64.0, 272.5)
+[20:21:50 INFO]: Floy_Tv lost connection: Disconnected
+[20:21:50 INFO]: Floy_Tv left the game

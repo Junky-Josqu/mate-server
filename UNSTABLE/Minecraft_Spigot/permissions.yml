@@ -1,0 +1,11 @@
+groups:
+  player:
+    default: true
+
+    permissions:
+    -modifyworld.*
+  root:
+    default: false
+
+    permissions:
+    -*
